@@ -14,10 +14,6 @@
 Federal University of Maranhão (UFMA) · São Luís, Brazil
 
 <div>
-  <a href="https://instagram.com/marcoasferro" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
   <a href="mailto:marcquinhos2504@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -25,15 +21,23 @@ Federal University of Maranhão (UFMA) · São Luís, Brazil
   <a href="https://www.linkedin.com/in/marco-ferro-880222438" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="https://instagram.com/marcoasferro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 </div>
+
+---
+
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MarcoasFerro&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=MarcoasFerro&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue)
 
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)
 
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)
+</div>
 
 ---
 
@@ -59,7 +63,7 @@ Bachelor's Degree in Computer Science and Artificial Intelligence
 
 **Languages**
 
-Python · C · SQL
+Python · C
 
 **Tools**
 
@@ -69,7 +73,7 @@ Git · GitHub
 
 - Data Structures and Algorithms
 - Object-Oriented Programming
-- Database Design
+- SQL and Database Design
 - Pygame
 - Artificial Intelligence
 
@@ -101,18 +105,6 @@ More projects will be added as I continue developing them.
 - Cybersecurity
 - Game Development
 - Databases
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcoasFerro&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoasFerro&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
-
-</div>
 
 ---
 
