@@ -3,27 +3,29 @@
 # Marco Ferro
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
 ### Computer Science & Artificial Intelligence Student
 
 Federal University of Maranhão (UFMA) · São Luís, Brazil
 
-<div> 
-  <a href="https://instagram.com/marcoasferro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcquinhos2504@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marco-ferro-880222438" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div>
+  <a href="https://instagram.com/marcoasferro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:marcquinhos2504@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/marco-ferro-880222438" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
-
-
 
 </div>
 
@@ -59,11 +61,11 @@ Git · GitHub
 
 **Currently learning**
 
-Data Structures and Algorithms  
-Object-Oriented Programming  
-Database Design  
-Pygame  
-Artificial Intelligence
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Design
+- Pygame
+- Artificial Intelligence
 
 ---
 
@@ -79,7 +81,7 @@ The repository is also a record of my progress as I learn programming and comput
 
 ### Game Development
 
-I'm currently working on small game development projects using Python and Pygame, with a focus on programming fundamentals, game mechanics, and interactive storytelling.
+I'm currently exploring game development with Python and Pygame, focusing on programming fundamentals, game mechanics, and interactive storytelling.
 
 More projects will be added as I continue developing them.
 
@@ -87,12 +89,12 @@ More projects will be added as I continue developing them.
 
 ## Interests
 
-Artificial Intelligence  
-Software Engineering  
-Algorithms and Data Structures  
-Cybersecurity  
-Game Development  
-Databases
+- Artificial Intelligence
+- Software Engineering
+- Algorithms and Data Structures
+- Cybersecurity
+- Game Development
+- Databases
 
 ---
 
@@ -114,6 +116,8 @@ If you'd like to talk about technology, projects, university, or potential colla
 
 <div align="center">
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+<a href="https://www.linkedin.com/in/marco-ferro-880222438" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
