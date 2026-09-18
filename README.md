@@ -29,6 +29,9 @@ Federal University of Maranhão (UFMA) · São Luís, Brazil
 
 </div>
 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)
+
 ---
 
 ## About
