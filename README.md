@@ -33,9 +33,9 @@ Federal University of Maranhão (UFMA) · São Luís, Brazil
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MarcoasFerro&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=MarcoasFerro&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue)
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=MarcoasFerro&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_blue"/>&nbsp;&nbsp;
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue)
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=MarcoasFerro&layout=donut&langs_count=4&theme=shadow_blue"/>
 
 </div>
 
@@ -43,11 +43,11 @@ Federal University of Maranhão (UFMA) · São Luís, Brazil
 
 ## About
 
-I'm a Computer Science and Artificial Intelligence student at the Federal University of Maranhão (UFMA).
+I'm a Computer Science and Artificial Intelligence student at the Federal University of Maranhão (UFMA), currently at the beginning of my undergraduate degree.
 
-I'm currently focused on building a strong foundation in programming, algorithms, data structures, mathematics, and software development. I'm mainly working with Python and C while exploring areas such as artificial intelligence, cybersecurity, databases, and game development.
+I'm focused on building a strong foundation in programming, algorithms, mathematics, and software development. I'm currently working mainly with Python and C while exploring areas such as artificial intelligence, cybersecurity, databases, and game development.
 
-I use GitHub to document my academic projects, experiments, and progress throughout my degree.
+I use GitHub to document my academic projects, programming exercises, experiments, and progress throughout my degree.
 
 ---
 
@@ -69,13 +69,15 @@ Python · C
 
 Git · GitHub
 
-**Currently learning**
+**Currently Exploring**
 
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- SQL and Database Design
-- Pygame
+- Programming fundamentals
+- Algorithms and problem solving
+- Python and C development
+- Game development with Pygame
 - Artificial Intelligence
+- Cybersecurity
+- Databases
 
 ---
 
@@ -83,9 +85,9 @@ Git · GitHub
 
 ### Faculdade-UFMA
 
-A repository containing exercises, assignments, and projects developed during my Computer Science and Artificial Intelligence degree.
+A repository containing exercises, assignments, and projects developed throughout my Computer Science and Artificial Intelligence degree.
 
-The repository is also a record of my progress as I learn programming and computer science fundamentals.
+The repository is organized by course and serves as a record of my academic progress, programming practice, and learning journey.
 
 [View repository](https://github.com/MarcoasFerro/Faculdade-UFMA)
 
@@ -93,7 +95,7 @@ The repository is also a record of my progress as I learn programming and comput
 
 I'm currently exploring game development with Python and Pygame, focusing on programming fundamentals, game mechanics, and interactive storytelling.
 
-More projects will be added as I continue developing them.
+More projects will be added as I continue developing my skills throughout the degree.
 
 ---
 
@@ -110,7 +112,7 @@ More projects will be added as I continue developing them.
 
 ## Contact
 
-If you'd like to talk about technology, projects, university, or potential collaborations, feel free to reach out through LinkedIn.
+If you'd like to talk about technology, programming, university, or potential collaborations, feel free to reach out through LinkedIn.
 
 <div align="center">
 
